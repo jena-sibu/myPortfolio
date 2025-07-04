@@ -121,7 +121,7 @@ const App = () => {
                   className="flex items-center gap-2 bg-gray-700 hover:bg-gray-600 px-6 py-3 rounded-full transition-all duration-300 hover:scale-105"
                 >
                   <Github className="w-5 h-5" />
-                  View Projects
+                  View Profile
                 </a>
               </div>
             </div>
