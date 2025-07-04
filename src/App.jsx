@@ -117,7 +117,7 @@ const App = () => {
                   Get In Touch
                 </a>
                 <a 
-                  href="https://github.com/dashboard"
+                  href="https://github.com/jena-sibu"
                   className="flex items-center gap-2 bg-gray-700 hover:bg-gray-600 px-6 py-3 rounded-full transition-all duration-300 hover:scale-105"
                 >
                   <Github className="w-5 h-5" />
@@ -253,7 +253,7 @@ const App = () => {
           <p className="text-gray-400">© 2024 Jayadev Jena. All rights reserved.</p>
           <div className="flex gap-4 mt-4 md:mt-0">
             <a 
-              href="https://github.com/dashboard"
+              href="https://github.com/jena-sibu"
               className="text-gray-400 hover:text-white transition-colors duration-300"
               target="_blank"
               rel="noopener noreferrer"
